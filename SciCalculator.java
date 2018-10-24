@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.lang.Math;
 public class SciCalculator {
     public static void main(String[] args) {
+        // this is a new comment or lab 06
         // Variables declared for operands and response
         double operand1;
         double operand2;
